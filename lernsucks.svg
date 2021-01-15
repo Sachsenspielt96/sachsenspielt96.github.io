@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="361.044"
+   height="30.322"
+   viewBox="0 0 361.044 30.322"
+   version="1.1"
+   id="svg60"
+   sodipodi:docname="logo_lernsax.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata66">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs64" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview62"
+     showgrid="false"
+     inkscape:zoom="1.9839664"
+     inkscape:cx="104.00266"
+     inkscape:cy="-45.527504"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg60" />
+  <title
+     id="title2">logo_lernsax</title>
+  <rect
+     y="25.33"
+     width="39.719"
+     height="4.992"
+     style="fill:#347e33"
+     id="rect18" />
+  <path
+     d="M4.979,0V21.463H34.741V0ZM31.051,17.708H8.669V3.754H31.051Z"
+     style="fill:#313237"
+     id="path20" />
+  <text
+     xml:space="preserve"
+     style="font-size:30.667px;line-height:1.25;font-family:'Rotis II Sans Pro';-inkscape-font-specification:'Rotis II Sans Pro';display:inline;fill:#313237;fill-opacity:1;stroke-width:1"
+     x="50.180824"
+     y="25.908644"
+     id="text70"><tspan
+       sodipodi:role="line"
+       id="tspan68"
+       x="50.180824"
+       y="25.908644"
+       style="font-size:30.667px;fill:#313237;fill-opacity:1;stroke-width:1">LernSucks</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:14.6667px;line-height:1.25;font-family:'Rotis II Sans Pro';-inkscape-font-specification:'Rotis II Sans Pro';fill:#313237;fill-opacity:1"
+     x="184.72212"
+     y="25.906324"
+     id="text74"><tspan
+       sodipodi:role="line"
+       id="tspan72"
+       x="184.72212"
+       y="25.906324"
+       style="font-size:14.6667px">Die Sucksische Schmutzcloud</tspan></text>
+</svg>
